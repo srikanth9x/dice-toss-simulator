@@ -50,8 +50,8 @@ This specific project is pretty much done, but I'm always working on bigger proj
 ## Find me online
 
 - GitHub: [@srikanth9x](https://github.com/srikanth9x)
-- X (Twitter): [@srikanth9x] (https://x.com/srikanth9x)
-- Instagram: [@srikanth9x]  (https://instagram.com/srikanth9x)
-- Email: [srikanth9x@gmail.com] (mailto:srikanth9x@gmail.com)
+- X (Twitter): [@srikanth9x](https://x.com/srikanth9x)
+- Instagram: [@srikanth9x](https://instagram.com/srikanth9x)
+- Email: [srikanth9x@gmail.com](mailto:srikanth9x@gmail.com)
 
 Built for fun and practice! 🎯
