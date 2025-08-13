@@ -1,0 +1,109 @@
+body {
+    margin: 0rem;
+    padding: 0.5rem;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: center;
+    text-align: center;
+    background: #fff;
+    font-family: "Happy Monkey", Arial, Helvetica, sans-serif;
+    transition: background-color 0.3s ease;
+}
+
+#dice-title-el,
+#toss-title-el,
+#footer-el {
+    background: #000;
+    color: #fff;
+    width: 96vw;
+    max-width: 22.5rem;
+    min-width: 15.625rem;
+    padding: 0.5rem 0;
+    margin: 0.25rem auto;
+    border-radius: 0.5rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+#dice-card-el,
+#toss-card-el {
+    width: 96vw;
+    max-width: 22.5rem;
+    min-width: 15.625rem;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2.5rem 0;
+    margin-bottom: 0.5rem;
+    background: #000;
+    border-radius: 0.5rem;
+    transition: background-color 0.3s ease;
+}
+
+#dice-el {
+    width: 6.25rem;
+    height: 6.25rem;
+    min-width: 4rem;
+    min-height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.25rem;
+    border-radius: 0.5rem;
+    background: #fff;
+    color: #000;
+    transition: all 0.3s ease;
+}
+
+#roll-btn {
+    margin-top: 2.5rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: inherit;
+    padding: 0.5rem 1rem;
+    background: #fff;
+    color: #000;
+    border: none;
+    border-radius: 0.25rem;
+    min-width: 7.5rem;
+    transition: all 0.3s ease;
+}
+
+#coin-el {
+    width: 12.5rem;
+    height: 12.5rem;
+    min-width: 4rem;
+    min-height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem;
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-family: inherit;
+    color: #000;
+    border: none;
+    border-radius: 50%;
+    background: #fff;
+    transition: all 0.3s ease;
+}
+
+
+
+#num-el {
+      margin: 0;
+      transition: color 0.3s ease;
+    }
+
+#toss-el {
+      transition: color 0.3s ease;
+}
+
+a {
+    color: #fff;
+   transition: color 0.3s ease;
+}
